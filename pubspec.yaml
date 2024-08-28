@@ -64,6 +64,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - assets/images/
+    - assets/images/user-profile-icon-front-side-with-white-background.jpg
 #    - assets/images/medical_15239036.png
 
 
